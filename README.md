@@ -34,7 +34,7 @@ As team members we summarize each chapter topic by topic and try to understand t
 
 As I mentioned above we follow a book or the preparation:
 
-  -[CompTIA Security+ Get Certificate Ahead](http://www.mongroupsydney1.com/CompTIASecurity+GetCertifiedGetAhead.pdf)
+  -[CompTIA Security+ Get Certificate Ahead](https://www.amazon.com/CompTIA-Security-Certified-Ahead-SY0-401/dp/1939136024)
 
 ## Contribution
 
