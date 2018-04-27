@@ -1,7 +1,7 @@
 
 
 # Security Plus Exam Study Guide
-This project is basically a a study guideline, generated for preparation of Security Plus Exam.
+This project is basically a study guideline, generated for preparation of Security Plus Exam.
 
 We followed Darril Gibson's book, CompTIA Security+ Get Certificate Ahead.
 
