@@ -5,7 +5,7 @@ This project is basically a a study guideline, generated for preparation of Secu
 We followed Darril Gibson's book, CompTIA Security+ Get Certificate Ahead.
 Topics are covered by NAU ACM Cyber Security Lab members.
 
-**However,this guideline specifically prepared for the Security Plus Exam, you can learn basicsd of Network Security.**
+**However,this guideline specifically prepared for the Security Plus Exam, you can learn basics of Network Security.**
 The guideline covers the topics as below:
   
   -Mastering Security Basics Understanding Core Security Goals
