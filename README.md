@@ -28,11 +28,11 @@ As team members we summarize each chapter topic by topic and try to understand t
 **Basic following guide would be to:**
   1. Read the summary of the topic
   2. Try to improve your understanding with other sources such as videos or quizes that provided in this guideline.
-  3. Take the hapter quizes, try not to look at the answers from here.
+  3. Take the chapter quizes, try not to look at the answers from here.
   
 ## Resources
 
-As I mentioned above we follow a book or the preparation:
+Here is the book we follow:
 
   - [CompTIA Security+ Get Certificate Ahead](https://www.amazon.com/CompTIA-Security-Certified-Ahead-SY0-401/dp/1939136024)
 
