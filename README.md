@@ -7,7 +7,6 @@ Topics are covered by NAU ACM Cyber Security Lab members.
 
 **However,this guideline specifically prepared for the Security Plus Exam, you can learn basics of Network Security.**
 The guideline covers the topics as below:
-  
   -Mastering Security Basics Understanding Core Security Goals
   -Understanding Identity and Access Management
   -Exploring Network Technologies and Tools
@@ -39,7 +38,6 @@ We are open to any support.
 If you have anything to add, do not hesitate to offer! 
 
 ### Contributers
-
 -Omer Faruk Yolal
 -Asuman Rumeysa Nur Celik
 -Serigne Ousmane Ciss
